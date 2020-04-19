@@ -25,7 +25,9 @@ SECRET_KEY = 'm#$9gqg^^(sebddd9nj5^pgunp3k*g7&yt#t5n8%hhyxpq0n&c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'whispering-beach-10972.herokuapp.com'
+]
 
 
 # Application definition
